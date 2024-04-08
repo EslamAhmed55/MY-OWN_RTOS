@@ -4,7 +4,7 @@
 
 1. [Description](#description)
 2. [Features](#features)
-3. User API Reference(#user-api-reference)
+3. [User API Reference](#user-api-reference)
 4.  [Tasks in action](#tasks-in-action)
 5. [Tools needed](#tools-needed)
 6. [Usage](#usage)
