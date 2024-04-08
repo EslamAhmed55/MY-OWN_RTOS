@@ -1,4 +1,4 @@
-# MyRTOS
+# MY_RTOS
 
 ## Table of Contents
 
