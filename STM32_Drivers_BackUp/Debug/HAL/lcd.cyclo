@@ -1,0 +1,10 @@
+../HAL/lcd.c:5:6:delay_ms	3
+../HAL/lcd.c:12:6:LCD_GPIO_init	1
+../HAL/lcd.c:77:6:LCD_clear_screen	1
+../HAL/lcd.c:81:6:LCD_lcd_kick	1
+../HAL/lcd.c:87:6:LCD_GOTO_XY	5
+../HAL/lcd.c:100:6:LCD_INIT	1
+../HAL/lcd.c:116:6:LCD_check_lcd_isbusy	1
+../HAL/lcd.c:161:6:LCD_WRITE_COMMAND	1
+../HAL/lcd.c:176:6:LCD_WRITE_CHAR	1
+../HAL/lcd.c:190:6:LCD_WRITE_STRING	4

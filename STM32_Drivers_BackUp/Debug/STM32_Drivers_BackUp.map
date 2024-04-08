@@ -1,0 +1,1847 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+                              Src/syscalls.o (__errno)
+c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+                              c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+                              c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+                              c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+                              c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-strcmp.o)
+                              MY_RTOS/Scheduler.o (strcmp)
+
+Allocating common symbols
+Common symbol       size              file
+
+Mutex1              0x30              Src/main.o
+Task4               0x44              Src/main.o
+Ready_Queue         0x14              MY_RTOS/Scheduler.o
+SysTickLED          0x1               MY_RTOS/CortexMX_OS_Porting.o
+OS_Control          0x1ac             MY_RTOS/Scheduler.o
+Task1               0x44              Src/main.o
+Task4LED            0x1               Src/main.o
+MYRTOS_idleTask     0x44              MY_RTOS/Scheduler.o
+Task2LED            0x1               Src/main.o
+Task3               0x44              Src/main.o
+Mutex2              0x30              Src/main.o
+Task1LED            0x1               Src/main.o
+IdleTaskLED         0x1               MY_RTOS/Scheduler.o
+Task2               0x44              Src/main.o
+Ready_Queue_FIFO    0x190             MY_RTOS/Scheduler.o
+Task3LED            0x1               Src/main.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x4 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .text          0x0000000000000000       0x74 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/I2C_Slave_EEPROM.o
+ .text          0x0000000000000000        0x0 HAL/I2C_Slave_EEPROM.o
+ .data          0x0000000000000000        0x0 HAL/I2C_Slave_EEPROM.o
+ .bss           0x0000000000000000        0x0 HAL/I2C_Slave_EEPROM.o
+ .text.EEPROM_Init
+                0x0000000000000000       0x40 HAL/I2C_Slave_EEPROM.o
+ .text.EEPROM_Write_MBytes
+                0x0000000000000000       0xd4 HAL/I2C_Slave_EEPROM.o
+ .text.EEPROM_Read_Bytes
+                0x0000000000000000       0x54 HAL/I2C_Slave_EEPROM.o
+ .debug_info    0x0000000000000000      0x49e HAL/I2C_Slave_EEPROM.o
+ .debug_abbrev  0x0000000000000000      0x14e HAL/I2C_Slave_EEPROM.o
+ .debug_loc     0x0000000000000000       0xf2 HAL/I2C_Slave_EEPROM.o
+ .debug_aranges
+                0x0000000000000000       0x30 HAL/I2C_Slave_EEPROM.o
+ .debug_ranges  0x0000000000000000       0x20 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000      0x174 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000      0xaa2 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x24 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x22 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x5b HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x94 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x43 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x34 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x16 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000      0x10e HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x8d HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x16 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x43 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x57 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x34 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x10 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x58 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x8e HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x1c HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000      0x177 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000      0x369 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x16 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x29 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000      0x103 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x6a HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000      0x1df HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000      0x6b8 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0xd0 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x16 HAL/I2C_Slave_EEPROM.o
+ .debug_macro   0x0000000000000000       0x73 HAL/I2C_Slave_EEPROM.o
+ .debug_line    0x0000000000000000      0x701 HAL/I2C_Slave_EEPROM.o
+ .debug_str     0x0000000000000000     0x9be7 HAL/I2C_Slave_EEPROM.o
+ .comment       0x0000000000000000       0x44 HAL/I2C_Slave_EEPROM.o
+ .debug_frame   0x0000000000000000       0x80 HAL/I2C_Slave_EEPROM.o
+ .ARM.attributes
+                0x0000000000000000       0x2d HAL/I2C_Slave_EEPROM.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/keypad.o
+ .text          0x0000000000000000        0x0 HAL/keypad.o
+ .data          0x0000000000000000        0x0 HAL/keypad.o
+ .bss           0x0000000000000000        0x0 HAL/keypad.o
+ .data.Key_padRow
+                0x0000000000000000       0x10 HAL/keypad.o
+ .data.Key_padCol
+                0x0000000000000000       0x10 HAL/keypad.o
+ .text.delay_mss
+                0x0000000000000000       0x3a HAL/keypad.o
+ .text.Keypad_init
+                0x0000000000000000       0xcc HAL/keypad.o
+ .text.Keypad_getkey
+                0x0000000000000000      0x194 HAL/keypad.o
+ .debug_info    0x0000000000000000      0x2f0 HAL/keypad.o
+ .debug_abbrev  0x0000000000000000      0x15a HAL/keypad.o
+ .debug_loc     0x0000000000000000       0xfc HAL/keypad.o
+ .debug_aranges
+                0x0000000000000000       0x30 HAL/keypad.o
+ .debug_ranges  0x0000000000000000       0x20 HAL/keypad.o
+ .debug_macro   0x0000000000000000      0x15f HAL/keypad.o
+ .debug_macro   0x0000000000000000      0xaa2 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x24 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x22 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x5b HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x94 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x43 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x34 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x16 HAL/keypad.o
+ .debug_macro   0x0000000000000000      0x10e HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x8d HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x16 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x43 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x57 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x34 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x10 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x58 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x8e HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x1c HAL/keypad.o
+ .debug_macro   0x0000000000000000      0x177 HAL/keypad.o
+ .debug_macro   0x0000000000000000      0x369 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x16 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x29 HAL/keypad.o
+ .debug_macro   0x0000000000000000      0x103 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x6a HAL/keypad.o
+ .debug_macro   0x0000000000000000      0x1df HAL/keypad.o
+ .debug_macro   0x0000000000000000      0x6b8 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0xd0 HAL/keypad.o
+ .debug_macro   0x0000000000000000       0x3a HAL/keypad.o
+ .debug_line    0x0000000000000000      0x779 HAL/keypad.o
+ .debug_str     0x0000000000000000     0x97da HAL/keypad.o
+ .comment       0x0000000000000000       0x44 HAL/keypad.o
+ .debug_frame   0x0000000000000000       0x80 HAL/keypad.o
+ .ARM.attributes
+                0x0000000000000000       0x2d HAL/keypad.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .group         0x0000000000000000        0xc HAL/lcd.o
+ .text          0x0000000000000000        0x0 HAL/lcd.o
+ .data          0x0000000000000000        0x0 HAL/lcd.o
+ .bss           0x0000000000000000        0x0 HAL/lcd.o
+ .bss.PinCfg    0x0000000000000000        0x4 HAL/lcd.o
+ .text.delay_ms
+                0x0000000000000000       0x3a HAL/lcd.o
+ .text.LCD_GPIO_init
+                0x0000000000000000      0x158 HAL/lcd.o
+ .text.LCD_clear_screen
+                0x0000000000000000        0xe HAL/lcd.o
+ .text.LCD_lcd_kick
+                0x0000000000000000       0x2c HAL/lcd.o
+ .text.LCD_GOTO_XY
+                0x0000000000000000       0x48 HAL/lcd.o
+ .text.LCD_INIT
+                0x0000000000000000       0x34 HAL/lcd.o
+ .text.LCD_check_lcd_isbusy
+                0x0000000000000000       0xd8 HAL/lcd.o
+ .text.LCD_WRITE_COMMAND
+                0x0000000000000000       0x44 HAL/lcd.o
+ .text.LCD_WRITE_CHAR
+                0x0000000000000000       0x44 HAL/lcd.o
+ .text.LCD_WRITE_STRING
+                0x0000000000000000       0x5a HAL/lcd.o
+ .debug_info    0x0000000000000000      0x38c HAL/lcd.o
+ .debug_abbrev  0x0000000000000000      0x160 HAL/lcd.o
+ .debug_loc     0x0000000000000000      0x278 HAL/lcd.o
+ .debug_aranges
+                0x0000000000000000       0x68 HAL/lcd.o
+ .debug_ranges  0x0000000000000000       0x58 HAL/lcd.o
+ .debug_macro   0x0000000000000000      0x15e HAL/lcd.o
+ .debug_macro   0x0000000000000000      0xaa2 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x10 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x24 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x22 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x5b HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x94 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x43 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x34 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x16 HAL/lcd.o
+ .debug_macro   0x0000000000000000      0x10e HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x8d HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x16 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x43 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x57 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x34 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x10 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x58 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x8e HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x1c HAL/lcd.o
+ .debug_macro   0x0000000000000000      0x177 HAL/lcd.o
+ .debug_macro   0x0000000000000000      0x369 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x16 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x29 HAL/lcd.o
+ .debug_macro   0x0000000000000000      0x103 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x6a HAL/lcd.o
+ .debug_macro   0x0000000000000000      0x1df HAL/lcd.o
+ .debug_macro   0x0000000000000000      0x6b8 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0xd0 HAL/lcd.o
+ .debug_macro   0x0000000000000000       0x94 HAL/lcd.o
+ .debug_line    0x0000000000000000      0x821 HAL/lcd.o
+ .debug_str     0x0000000000000000     0x9a24 HAL/lcd.o
+ .comment       0x0000000000000000       0x44 HAL/lcd.o
+ .debug_frame   0x0000000000000000      0x154 HAL/lcd.o
+ .ARM.attributes
+                0x0000000000000000       0x2d HAL/lcd.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/CortexMX_OS_Porting.o
+ .text          0x0000000000000000        0x0 MY_RTOS/CortexMX_OS_Porting.o
+ .data          0x0000000000000000        0x0 MY_RTOS/CortexMX_OS_Porting.o
+ .bss           0x0000000000000000        0x0 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000000000       0x6a MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000000000      0x1df MY_RTOS/CortexMX_OS_Porting.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/MYRTOS_FIFO.o
+ .text          0x0000000000000000        0x0 MY_RTOS/MYRTOS_FIFO.o
+ .data          0x0000000000000000        0x0 MY_RTOS/MYRTOS_FIFO.o
+ .bss           0x0000000000000000        0x0 MY_RTOS/MYRTOS_FIFO.o
+ .text.FIFO_is_full
+                0x0000000000000000       0x40 MY_RTOS/MYRTOS_FIFO.o
+ .text.FIFO_print
+                0x0000000000000000       0x12 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000      0xa60 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000       0x22 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000       0x34 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000       0x57 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000       0x6a MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000       0xef MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000      0x1df MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000       0x28 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000       0x1c MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000       0x22 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000      0xe3c MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000000000       0x2e MY_RTOS/MYRTOS_FIFO.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc MY_RTOS/Scheduler.o
+ .text          0x0000000000000000        0x0 MY_RTOS/Scheduler.o
+ .data          0x0000000000000000        0x0 MY_RTOS/Scheduler.o
+ .bss           0x0000000000000000        0x0 MY_RTOS/Scheduler.o
+ .text.MYRTOS_TaskWait
+                0x0000000000000000       0x2e MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000      0xa60 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x28 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x22 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x8e MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x51 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0xef MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x6a MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000      0x1df MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x1c MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x22 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0xe5 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000      0xe3c MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x2e MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x18 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x3c MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x34 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x16 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x97 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0xfd MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x10 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x52 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x1f MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x43 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x20 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000      0x1a3 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x10 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x1c MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x52 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x40 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x10 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x40 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0xd7 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x1c MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x3d MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000       0x16 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000000000      0x145 MY_RTOS/Scheduler.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .text          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .data          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .bss           0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .text.Enable_NVIC
+                0x0000000000000000       0xcc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .text.Disable_NVIC
+                0x0000000000000000       0xcc STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .text.Updata_EXTI
+                0x0000000000000000      0x1d8 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .text.MCAL_EXTI_GPIO_Init
+                0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .text.MCAL_EXTI_GPIO_DeInit
+                0x0000000000000000       0x88 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .text.EXTI5_9_IRQHandler
+                0x0000000000000000       0xa8 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .text.EXTI10_15_IRQHandler
+                0x0000000000000000       0xc4 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000      0xaa2 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x24 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x22 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x5b STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x94 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000      0x10e STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x8d STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x57 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x10 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x58 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x8e STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x1c STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000      0x177 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000      0x369 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x29 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000      0x103 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0x6a STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000      0x1df STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000      0x6b8 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000000000       0xd0 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .text          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .data          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .bss           0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .text.Get_CRLH_Position
+                0x0000000000000000      0x170 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .text.MCAL_GPIO_Init
+                0x0000000000000000       0xfe STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .text.MCAL_GPIO_DeInit
+                0x0000000000000000       0xd4 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .text.MCAL_GPIO_ReadPin
+                0x0000000000000000       0x2e STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .text.MCAL_GPIO_ReadPort
+                0x0000000000000000       0x1a STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .text.MCAL_GPIO_WritePin
+                0x0000000000000000       0x30 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .text.MCAL_GPIO_WritePort
+                0x0000000000000000       0x1e STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .text.MCAL_GPIO_TogglePin
+                0x0000000000000000       0x24 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .text.MCAL_GPIO_LockPin
+                0x0000000000000000       0x4e STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_info    0x0000000000000000      0x4ab STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_abbrev  0x0000000000000000      0x153 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_loc     0x0000000000000000      0x330 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_aranges
+                0x0000000000000000       0x60 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_ranges  0x0000000000000000       0x50 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000      0x14c STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000      0xaa2 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x24 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x22 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x5b STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x94 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000      0x10e STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x8d STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x57 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x10 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x58 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x8e STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x1c STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000      0x177 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000      0x369 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x29 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000      0x103 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0x6a STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000      0x1df STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000      0x6b8 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_macro   0x0000000000000000       0xd0 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_line    0x0000000000000000      0x826 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_str     0x0000000000000000     0x9809 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .comment       0x0000000000000000       0x44 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .debug_frame   0x0000000000000000      0x178 STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .ARM.attributes
+                0x0000000000000000       0x2d STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .data          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .bss           0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.MCAL_I2C_Init
+                0x0000000000000000      0x218 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.MCAL_I2C_DeInit
+                0x0000000000000000       0x80 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.MCAL_I2C_GPIO_Set_Pins
+                0x0000000000000000       0x94 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.MCAL_I2C_MASTER_RX
+                0x0000000000000000       0xdc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.MCAL_I2C_MASTER_TX
+                0x0000000000000000       0xa8 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.I2C_GenerateSTART
+                0x0000000000000000       0x4e STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.I2C_SendAddress
+                0x0000000000000000       0x3e STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.I2c_GenerateSTOP
+                0x0000000000000000       0x36 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.I2C_GETFlagStatus
+                0x0000000000000000      0x110 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.MCAL_I2C_SlaveSendData
+                0x0000000000000000       0x1c STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.MCAL_I2C_SlaveRecieveData
+                0x0000000000000000       0x18 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .text.I2C_AcknowledgeConFig
+                0x0000000000000000       0x36 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000      0xaa2 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x24 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x22 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x5b STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x94 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000      0x10e STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x8d STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x57 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x10 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x58 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x8e STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x1c STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000      0x177 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000      0x369 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x29 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000      0x103 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x6a STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000      0x1df STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000      0x6b8 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0xd0 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000000000       0x73 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .text          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .data          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .bss           0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .rodata.AHBPresectable
+                0x0000000000000000        0x8 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .rodata.APBPresectable
+                0x0000000000000000        0x8 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .text.MCAL_RCC_GetSYS_CLK1Freq
+                0x0000000000000000       0x44 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .text.MCAL_RCC_GetHCLK1Freq
+                0x0000000000000000       0x28 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .text.MCAL_RCC_GetPCLK1Freq
+                0x0000000000000000       0x28 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .text.MCAL_RCC_GetPCLK2Freq
+                0x0000000000000000       0x28 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_info    0x0000000000000000      0x20e STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_abbrev  0x0000000000000000       0xda STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_loc     0x0000000000000000       0xc8 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_aranges
+                0x0000000000000000       0x38 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_ranges  0x0000000000000000       0x28 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000      0x15b STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000      0xaa2 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x24 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x22 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x5b STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x94 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000      0x10e STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x8d STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x57 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x10 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x58 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x8e STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x1c STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000      0x177 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000      0x369 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x29 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000      0x103 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x6a STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000      0x1df STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000      0x6b8 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0xd0 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_macro   0x0000000000000000       0x10 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_line    0x0000000000000000      0x69d STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_str     0x0000000000000000     0x9786 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .comment       0x0000000000000000       0x44 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .debug_frame   0x0000000000000000       0x84 STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .ARM.attributes
+                0x0000000000000000       0x2d STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .text          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .data          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .bss           0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .bss.Global_SPI_Comfig1
+                0x0000000000000000       0x18 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .bss.Global_SPI_Comfig2
+                0x0000000000000000       0x18 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .text.MCAL_SPI_Init
+                0x0000000000000000      0x148 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .text.MCAL_SPI_DeInit
+                0x0000000000000000       0x60 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .text.MCAL_SPI_SendData
+                0x0000000000000000       0x36 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .text.MCAL_SPI_ReceiveData
+                0x0000000000000000       0x36 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .text.MCAL_SPI_TX_RX
+                0x0000000000000000       0x54 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .text.MCAL_SPI_GPIO_Set_Pins
+                0x0000000000000000      0x1e4 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .text.SPI_IRQHandler
+                0x0000000000000000       0x5c STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000      0xaa2 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x24 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x22 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x5b STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x94 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000      0x10e STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x8d STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x57 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x10 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x58 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x8e STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x1c STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000      0x177 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000      0x369 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x29 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000      0x103 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0x6a STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000      0x1df STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000      0x6b8 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x0000000000000000       0xd0 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .text          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .data          0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .bss           0x0000000000000000        0x0 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .text.MCAL_UART_Init
+                0x0000000000000000      0x17c STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .text.MCAL_UART_DeInit
+                0x0000000000000000       0x8c STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .text.MCAL_UART_GPIO_Set_Pins
+                0x0000000000000000       0xcc STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .text.MCAL_UART_SendData
+                0x0000000000000000       0x36 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .text.MCAL_UART_ReceiveData
+                0x0000000000000000       0x5c STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .text.MCAL_UART_WAIT_TC
+                0x0000000000000000       0x22 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .text.USAR3_IRQHandler
+                0x0000000000000000       0x14 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000      0xaa2 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x24 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x22 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x5b STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x94 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000      0x10e STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x8d STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x43 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x57 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x34 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x10 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x58 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x8e STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x1c STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000      0x177 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000      0x369 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x16 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x29 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000      0x103 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x6a STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000      0x1df STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000      0x6b8 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0xd0 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000      0x225 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000000000       0x10 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .text          0x0000000000000000        0x0 Src/main.o
+ .data          0x0000000000000000        0x0 Src/main.o
+ .bss           0x0000000000000000        0x0 Src/main.o
+ .debug_macro   0x0000000000000000      0xa60 Src/main.o
+ .debug_macro   0x0000000000000000       0x28 Src/main.o
+ .debug_macro   0x0000000000000000       0x22 Src/main.o
+ .debug_macro   0x0000000000000000       0x8e Src/main.o
+ .debug_macro   0x0000000000000000       0x51 Src/main.o
+ .debug_macro   0x0000000000000000       0xef Src/main.o
+ .debug_macro   0x0000000000000000       0x6a Src/main.o
+ .debug_macro   0x0000000000000000      0x1df Src/main.o
+ .debug_macro   0x0000000000000000       0x1c Src/main.o
+ .debug_macro   0x0000000000000000       0x22 Src/main.o
+ .debug_macro   0x0000000000000000       0xe5 Src/main.o
+ .debug_macro   0x0000000000000000      0xe3c Src/main.o
+ .debug_macro   0x0000000000000000       0x2e Src/main.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .text          0x0000000000000000        0x0 Src/syscalls.o
+ .data          0x0000000000000000        0x0 Src/syscalls.o
+ .bss           0x0000000000000000        0x0 Src/syscalls.o
+ .bss.__env     0x0000000000000000        0x4 Src/syscalls.o
+ .data.environ  0x0000000000000000        0x4 Src/syscalls.o
+ .text.initialise_monitor_handles
+                0x0000000000000000        0xc Src/syscalls.o
+ .text._getpid  0x0000000000000000        0xe Src/syscalls.o
+ .text._kill    0x0000000000000000       0x20 Src/syscalls.o
+ .text._exit    0x0000000000000000       0x14 Src/syscalls.o
+ .text._read    0x0000000000000000       0x3a Src/syscalls.o
+ .text._write   0x0000000000000000       0x38 Src/syscalls.o
+ .text._close   0x0000000000000000       0x16 Src/syscalls.o
+ .text._fstat   0x0000000000000000       0x1e Src/syscalls.o
+ .text._isatty  0x0000000000000000       0x14 Src/syscalls.o
+ .text._lseek   0x0000000000000000       0x18 Src/syscalls.o
+ .text._open    0x0000000000000000       0x1a Src/syscalls.o
+ .text._wait    0x0000000000000000       0x1e Src/syscalls.o
+ .text._unlink  0x0000000000000000       0x1e Src/syscalls.o
+ .text._times   0x0000000000000000       0x16 Src/syscalls.o
+ .text._stat    0x0000000000000000       0x1e Src/syscalls.o
+ .text._link    0x0000000000000000       0x20 Src/syscalls.o
+ .text._fork    0x0000000000000000       0x16 Src/syscalls.o
+ .text._execve  0x0000000000000000       0x22 Src/syscalls.o
+ .debug_info    0x0000000000000000      0x771 Src/syscalls.o
+ .debug_abbrev  0x0000000000000000      0x1b5 Src/syscalls.o
+ .debug_loc     0x0000000000000000      0x5b8 Src/syscalls.o
+ .debug_aranges
+                0x0000000000000000       0xa8 Src/syscalls.o
+ .debug_ranges  0x0000000000000000       0x98 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x274 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0xaa2 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x22 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x5b Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x24 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x94 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x43 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x34 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x57 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x174 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x369 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x43 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x34 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x58 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x8e Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1c Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x177 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x35 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x6a Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x52 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x22 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x52 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0xcf Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x3d Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x35 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x12c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x29 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x242 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x147 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x103 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x1df Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x18a Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0xce Src/syscalls.o
+ .debug_line    0x0000000000000000      0x8ad Src/syscalls.o
+ .debug_str     0x0000000000000000     0x984d Src/syscalls.o
+ .comment       0x0000000000000000       0x44 Src/syscalls.o
+ .debug_frame   0x0000000000000000      0x2ac Src/syscalls.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .text          0x0000000000000000        0x0 Src/sysmem.o
+ .data          0x0000000000000000        0x0 Src/sysmem.o
+ .bss           0x0000000000000000        0x0 Src/sysmem.o
+ .bss.__sbrk_heap_end
+                0x0000000000000000        0x4 Src/sysmem.o
+ .text._sbrk    0x0000000000000000       0x6c Src/sysmem.o
+ .debug_info    0x0000000000000000      0x183 Src/sysmem.o
+ .debug_abbrev  0x0000000000000000       0xbd Src/sysmem.o
+ .debug_loc     0x0000000000000000       0x50 Src/sysmem.o
+ .debug_aranges
+                0x0000000000000000       0x20 Src/sysmem.o
+ .debug_ranges  0x0000000000000000       0x10 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0xff Src/sysmem.o
+ .debug_macro   0x0000000000000000      0xaa2 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x10 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x22 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x5b Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x24 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x94 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x43 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x34 Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x174 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x16 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x43 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x57 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x34 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x10 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x58 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x8e Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x1c Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x177 Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x23c Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x103 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x6a Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x1df Src/sysmem.o
+ .debug_line    0x0000000000000000      0x57e Src/sysmem.o
+ .debug_str     0x0000000000000000     0x6004 Src/sysmem.o
+ .comment       0x0000000000000000       0x44 Src/sysmem.o
+ .debug_frame   0x0000000000000000       0x34 Src/sysmem.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Src/sysmem.o
+ .text          0x0000000000000000       0x14 Startup/startup_stm32f103c8tx.o
+ .data          0x0000000000000000        0x0 Startup/startup_stm32f103c8tx.o
+ .bss           0x0000000000000000        0x0 Startup/startup_stm32f103c8tx.o
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x10 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x20 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2d c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000005000 xrw
+FLASH            0x0000000008000000 0x0000000000010000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD HAL/I2C_Slave_EEPROM.o
+LOAD HAL/keypad.o
+LOAD HAL/lcd.o
+LOAD MY_RTOS/CortexMX_OS_Porting.o
+LOAD MY_RTOS/MYRTOS_FIFO.o
+LOAD MY_RTOS/Scheduler.o
+LOAD STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+LOAD STM32F103C8T6/STM32_F103C6_GPIO-Driver.o
+LOAD STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+LOAD STM32F103C8T6/STM32_F103C6_RCC-Driver.o
+LOAD STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+LOAD STM32F103C8T6/STM32_F103C6_USART-Driver.o
+LOAD Src/main.o
+LOAD Src/syscalls.o
+LOAD Src/sysmem.o
+LOAD Startup/startup_stm32f103c8tx.o
+START GROUP
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libm.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a
+END GROUP
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+LOAD c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x0000000020005000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x130
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x130 Startup/startup_stm32f103c8tx.o
+                0x0000000008000000                g_pfnVectors
+                0x0000000008000130                . = ALIGN (0x4)
+
+.text           0x0000000008000130     0x1154
+                0x0000000008000130                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000130       0x40 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .text          0x0000000008000170       0x14 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-strcmp.o)
+                0x0000000008000170                strcmp
+ *(.text*)
+ .text.__NVIC_SetPriority
+                0x0000000008000184       0x54 MY_RTOS/CortexMX_OS_Porting.o
+ .text.SysTick_Config
+                0x00000000080001d8       0x44 MY_RTOS/CortexMX_OS_Porting.o
+ .text.HardFault_Handler
+                0x000000000800021c        0x6 MY_RTOS/CortexMX_OS_Porting.o
+                0x000000000800021c                HardFault_Handler
+ .text.MemManage_Handler
+                0x0000000008000222        0x6 MY_RTOS/CortexMX_OS_Porting.o
+                0x0000000008000222                MemManage_Handler
+ .text.BusFault_Handler
+                0x0000000008000228        0x6 MY_RTOS/CortexMX_OS_Porting.o
+                0x0000000008000228                BusFault_Handler
+ .text.UsageFault_Handler
+                0x000000000800022e        0x6 MY_RTOS/CortexMX_OS_Porting.o
+                0x000000000800022e                UsageFault_Handler
+ .text.SVC_Handler
+                0x0000000008000234       0x14 MY_RTOS/CortexMX_OS_Porting.o
+                0x0000000008000234                SVC_Handler
+ .text.HW_init  0x0000000008000248       0x12 MY_RTOS/CortexMX_OS_Porting.o
+                0x0000000008000248                HW_init
+ *fill*         0x000000000800025a        0x2 
+ .text.Trigger_OS_PendSV
+                0x000000000800025c       0x1c MY_RTOS/CortexMX_OS_Porting.o
+                0x000000000800025c                Trigger_OS_PendSV
+ .text.Start_Ticker
+                0x0000000008000278       0x10 MY_RTOS/CortexMX_OS_Porting.o
+                0x0000000008000278                Start_Ticker
+ .text.SysTick_Handler
+                0x0000000008000288       0x28 MY_RTOS/CortexMX_OS_Porting.o
+                0x0000000008000288                SysTick_Handler
+ .text.FIFO_init
+                0x00000000080002b0       0x44 MY_RTOS/MYRTOS_FIFO.o
+                0x00000000080002b0                FIFO_init
+ .text.FIFO_enqueue
+                0x00000000080002f4       0x84 MY_RTOS/MYRTOS_FIFO.o
+                0x00000000080002f4                FIFO_enqueue
+ .text.FIFO_dequeue
+                0x0000000008000378       0x7a MY_RTOS/MYRTOS_FIFO.o
+                0x0000000008000378                FIFO_dequeue
+ *fill*         0x00000000080003f2        0x2 
+ .text.PendSV_Handler
+                0x00000000080003f4      0x1c4 MY_RTOS/Scheduler.o
+                0x00000000080003f4                PendSV_Handler
+ .text.MYRTOS_Idle_Task
+                0x00000000080005b8       0x1c MY_RTOS/Scheduler.o
+                0x00000000080005b8                MYRTOS_Idle_Task
+ .text.MYRTOS_Create_MainStack
+                0x00000000080005d4       0x3c MY_RTOS/Scheduler.o
+                0x00000000080005d4                MYRTOS_Create_MainStack
+ .text.MYRTOS_init
+                0x0000000008000610       0x80 MY_RTOS/Scheduler.o
+                0x0000000008000610                MYRTOS_init
+ .text.MyRTOS_Create_Task_Stack
+                0x0000000008000690       0x7c MY_RTOS/Scheduler.o
+                0x0000000008000690                MyRTOS_Create_Task_Stack
+ .text.MYRTOS_CreateTask
+                0x000000000800070c       0x68 MY_RTOS/Scheduler.o
+                0x000000000800070c                MYRTOS_CreateTask
+ .text.bubblesort
+                0x0000000008000774       0x90 MY_RTOS/Scheduler.o
+                0x0000000008000774                bubblesort
+ .text.MYRTOS_Update_Scheduler_Table
+                0x0000000008000804       0xd0 MY_RTOS/Scheduler.o
+                0x0000000008000804                MYRTOS_Update_Scheduler_Table
+ .text.Decide_whatNext
+                0x00000000080008d4       0xa4 MY_RTOS/Scheduler.o
+                0x00000000080008d4                Decide_whatNext
+ .text.OS_SVC   0x0000000008000978       0x6c MY_RTOS/Scheduler.o
+                0x0000000008000978                OS_SVC
+ .text.MYRTOS_OS_SVC_Set
+                0x00000000080009e4       0x30 MY_RTOS/Scheduler.o
+                0x00000000080009e4                MYRTOS_OS_SVC_Set
+ .text.MYRTOS_ActivateTask
+                0x0000000008000a14       0x1e MY_RTOS/Scheduler.o
+                0x0000000008000a14                MYRTOS_ActivateTask
+ .text.MYRTOS_TerminateTask
+                0x0000000008000a32       0x1e MY_RTOS/Scheduler.o
+                0x0000000008000a32                MYRTOS_TerminateTask
+ .text.MYRTOS_StartOS
+                0x0000000008000a50       0x5c MY_RTOS/Scheduler.o
+                0x0000000008000a50                MYRTOS_StartOS
+ .text.MYRTOS_Update_tasksWaittingTime
+                0x0000000008000aac       0x88 MY_RTOS/Scheduler.o
+                0x0000000008000aac                MYRTOS_Update_tasksWaittingTime
+ .text.MYRTOS_AcquireMutex
+                0x0000000008000b34       0x46 MY_RTOS/Scheduler.o
+                0x0000000008000b34                MYRTOS_AcquireMutex
+ .text.MYRTOS_ReleaseMutex
+                0x0000000008000b7a       0x36 MY_RTOS/Scheduler.o
+                0x0000000008000b7a                MYRTOS_ReleaseMutex
+ .text.EXTI0_IRQHandler
+                0x0000000008000bb0       0x20 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+                0x0000000008000bb0                EXTI0_IRQHandler
+ .text.EXTI1_IRQHandler
+                0x0000000008000bd0       0x20 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+                0x0000000008000bd0                EXTI1_IRQHandler
+ .text.EXTI2_IRQHandler
+                0x0000000008000bf0       0x24 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+                0x0000000008000bf0                EXTI2_IRQHandler
+ .text.EXTI3_IRQHandler
+                0x0000000008000c14       0x24 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+                0x0000000008000c14                EXTI3_IRQHandler
+ .text.EXTI4_IRQHandler
+                0x0000000008000c38       0x24 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+                0x0000000008000c38                EXTI4_IRQHandler
+ .text.I2C1_ER_IRQHandler
+                0x0000000008000c5c        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+                0x0000000008000c5c                I2C1_ER_IRQHandler
+ .text.I2C1_EV_IRQHandler
+                0x0000000008000c68       0xec STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+                0x0000000008000c68                I2C1_EV_IRQHandler
+ .text.I2C2_ER_IRQHandler
+                0x0000000008000d54        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+                0x0000000008000d54                I2C2_ER_IRQHandler
+ .text.I2C2_EV_IRQHandler
+                0x0000000008000d60        0xc STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+                0x0000000008000d60                I2C2_EV_IRQHandler
+ .text.Slave_States
+                0x0000000008000d6c       0xd8 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+                0x0000000008000d6c                Slave_States
+ .text.SPI1_IRQHandler
+                0x0000000008000e44       0x5c STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+                0x0000000008000e44                SPI1_IRQHandler
+ .text.USART1_IRQHandler
+                0x0000000008000ea0       0x14 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+                0x0000000008000ea0                USART1_IRQHandler
+ .text.USART2_IRQHandler
+                0x0000000008000eb4       0x14 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+                0x0000000008000eb4                USART2_IRQHandler
+ .text.task1    0x0000000008000ec8       0x68 Src/main.o
+                0x0000000008000ec8                task1
+ .text.task2    0x0000000008000f30       0x50 Src/main.o
+                0x0000000008000f30                task2
+ .text.task3    0x0000000008000f80       0x50 Src/main.o
+                0x0000000008000f80                task3
+ .text.task4    0x0000000008000fd0       0x64 Src/main.o
+                0x0000000008000fd0                task4
+ .text.main     0x0000000008001034      0x19c Src/main.o
+                0x0000000008001034                main
+ .text.Reset_Handler
+                0x00000000080011d0       0x50 Startup/startup_stm32f103c8tx.o
+                0x00000000080011d0                Reset_Handler
+ .text.Default_Handler
+                0x0000000008001220        0x2 Startup/startup_stm32f103c8tx.o
+                0x0000000008001220                TIM8_TRG_COM_IRQHandler
+                0x0000000008001220                TIM8_CC_IRQHandler
+                0x0000000008001220                DebugMon_Handler
+                0x0000000008001220                TIM1_CC_IRQHandler
+                0x0000000008001220                TIM6_IRQHandler
+                0x0000000008001220                PVD_IRQHandler
+                0x0000000008001220                SDIO_IRQHandler
+                0x0000000008001220                NMI_Handler
+                0x0000000008001220                USB_HP_CAN_TX_IRQHandler
+                0x0000000008001220                ADC1_2_IRQHandler
+                0x0000000008001220                CAN_SCE_IRQHandler
+                0x0000000008001220                TAMPER_IRQHandler
+                0x0000000008001220                TIM8_UP_IRQHandler
+                0x0000000008001220                DMA2_Channel2_IRQHandler
+                0x0000000008001220                DMA1_Channel4_IRQHandler
+                0x0000000008001220                USART3_IRQHandler
+                0x0000000008001220                RTC_IRQHandler
+                0x0000000008001220                DMA1_Channel7_IRQHandler
+                0x0000000008001220                UART5_IRQHandler
+                0x0000000008001220                ADC3_IRQHandler
+                0x0000000008001220                TIM4_IRQHandler
+                0x0000000008001220                CAN_RX1_IRQHandler
+                0x0000000008001220                DMA2_Channel1_IRQHandler
+                0x0000000008001220                DMA1_Channel6_IRQHandler
+                0x0000000008001220                UART4_IRQHandler
+                0x0000000008001220                TIM3_IRQHandler
+                0x0000000008001220                RCC_IRQHandler
+                0x0000000008001220                TIM1_TRG_COM_IRQHandler
+                0x0000000008001220                DMA1_Channel1_IRQHandler
+                0x0000000008001220                Default_Handler
+                0x0000000008001220                EXTI15_10_IRQHandler
+                0x0000000008001220                TIM7_IRQHandler
+                0x0000000008001220                TIM5_IRQHandler
+                0x0000000008001220                EXTI9_5_IRQHandler
+                0x0000000008001220                SPI2_IRQHandler
+                0x0000000008001220                USB_LP_CAN_RX0_IRQHandler
+                0x0000000008001220                DMA1_Channel5_IRQHandler
+                0x0000000008001220                DMA1_Channel3_IRQHandler
+                0x0000000008001220                FSMC_IRQHandler
+                0x0000000008001220                TIM1_UP_IRQHandler
+                0x0000000008001220                WWDG_IRQHandler
+                0x0000000008001220                TIM2_IRQHandler
+                0x0000000008001220                TIM1_BRK_IRQHandler
+                0x0000000008001220                RTCAlarm_IRQHandler
+                0x0000000008001220                DMA2_Channel4_5_IRQHandler
+                0x0000000008001220                DMA1_Channel2_IRQHandler
+                0x0000000008001220                TIM8_BRK_IRQHandler
+                0x0000000008001220                FLASH_IRQHandler
+                0x0000000008001220                SPI3_IRQHandler
+                0x0000000008001220                DMA2_Channel3_IRQHandler
+ *fill*         0x0000000008001222        0x2 
+ .text.__libc_init_array
+                0x0000000008001224       0x48 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+                0x0000000008001224                __libc_init_array
+ *(.glue_7)
+ .glue_7        0x000000000800126c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x000000000800126c        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x000000000800126c        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.init)
+ .init          0x000000000800126c        0x4 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x000000000800126c                _init
+ .init          0x0000000008001270        0x8 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x0000000008001278        0x4 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x0000000008001278                _fini
+ .fini          0x000000000800127c        0x8 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x0000000008001284                . = ALIGN (0x4)
+                0x0000000008001284                _etext = .
+
+.vfp11_veneer   0x0000000008001284        0x0
+ .vfp11_veneer  0x0000000008001284        0x0 linker stubs
+
+.v4_bx          0x0000000008001284        0x0
+ .v4_bx         0x0000000008001284        0x0 linker stubs
+
+.iplt           0x0000000008001284        0x0
+ .iplt          0x0000000008001284        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.rodata         0x0000000008001284       0x54
+                0x0000000008001284                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0000000008001284        0x9 MY_RTOS/Scheduler.o
+ *fill*         0x000000000800128d        0x3 
+ .rodata        0x0000000008001290       0x47 Src/main.o
+ *(.rodata*)
+                0x00000000080012d8                . = ALIGN (0x4)
+ *fill*         0x00000000080012d7        0x1 
+
+.rel.dyn        0x00000000080012d8        0x0
+ .rel.iplt      0x00000000080012d8        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab      0x00000000080012d8        0x0
+                0x00000000080012d8                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000000080012d8                . = ALIGN (0x4)
+
+.ARM            0x00000000080012d8        0x0
+                0x00000000080012d8                . = ALIGN (0x4)
+                0x00000000080012d8                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00000000080012d8                __exidx_end = .
+                0x00000000080012d8                . = ALIGN (0x4)
+
+.preinit_array  0x00000000080012d8        0x0
+                0x00000000080012d8                . = ALIGN (0x4)
+                0x00000000080012d8                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x00000000080012d8                PROVIDE (__preinit_array_end = .)
+                0x00000000080012d8                . = ALIGN (0x4)
+
+.init_array     0x00000000080012d8        0x4
+                0x00000000080012d8                . = ALIGN (0x4)
+                0x00000000080012d8                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x00000000080012d8        0x4 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x00000000080012dc                PROVIDE (__init_array_end = .)
+                0x00000000080012dc                . = ALIGN (0x4)
+
+.fini_array     0x00000000080012dc        0x4
+                0x00000000080012dc                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x00000000080012dc        0x4 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x00000000080012e0                . = ALIGN (0x4)
+                0x00000000080012e0                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000        0x4 load address 0x00000000080012e0
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.payload  0x0000000020000000        0x3 Src/main.o
+                0x0000000020000000                payload
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x0000000020000004                . = ALIGN (0x4)
+ *fill*         0x0000000020000003        0x1 
+                0x0000000020000004                _edata = .
+
+.igot.plt       0x0000000020000004        0x0 load address 0x00000000080012e4
+ .igot.plt      0x0000000020000004        0x0 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x0000000020000004                . = ALIGN (0x4)
+
+.bss            0x0000000020000004      0x5e4 load address 0x00000000080012e4
+                0x0000000020000004                _sbss = .
+                0x0000000020000004                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000004       0x1c c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.bss*)
+ .bss.GP_IRQ_CallBack
+                0x0000000020000020       0x3c STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+                0x0000000020000020                GP_IRQ_CallBack
+ .bss.Global_I2C_Config
+                0x000000002000005c       0x58 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+                0x000000002000005c                Global_I2C_Config
+ .bss.Global_SPI_Comfig
+                0x00000000200000b4        0x8 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+                0x00000000200000b4                Global_SPI_Comfig
+ .bss.Global_USART_Config
+                0x00000000200000bc        0x4 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+                0x00000000200000bc                Global_USART_Config
+ .bss.count.4737
+                0x00000000200000c0        0x4 Src/main.o
+ .bss.count.4741
+                0x00000000200000c4        0x4 Src/main.o
+ .bss.count.4745
+                0x00000000200000c8        0x4 Src/main.o
+ .bss.count.4749
+                0x00000000200000cc        0x4 Src/main.o
+ *(COMMON)
+ COMMON         0x00000000200000d0        0x1 MY_RTOS/CortexMX_OS_Porting.o
+                0x00000000200000d0                SysTickLED
+ *fill*         0x00000000200000d1        0x3 
+ COMMON         0x00000000200000d4      0x398 MY_RTOS/Scheduler.o
+                0x00000000200000d4                Ready_Queue
+                0x00000000200000e8                OS_Control
+                0x0000000020000294                MYRTOS_idleTask
+                0x00000000200002d8                IdleTaskLED
+                0x00000000200002dc                Ready_Queue_FIFO
+ COMMON         0x000000002000046c      0x179 Src/main.o
+                0x000000002000046c                Mutex1
+                0x000000002000049c                Task4
+                0x00000000200004e0                Task1
+                0x0000000020000524                Task4LED
+                0x0000000020000525                Task2LED
+                0x0000000020000528                Task3
+                0x000000002000056c                Mutex2
+                0x000000002000059c                Task1LED
+                0x00000000200005a0                Task2
+                0x00000000200005e4                Task3LED
+                0x00000000200005e8                . = ALIGN (0x4)
+ *fill*         0x00000000200005e5        0x3 
+                0x00000000200005e8                _ebss = .
+                0x00000000200005e8                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x00000000200005e8      0x600 load address 0x00000000080012e4
+                0x00000000200005e8                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                0x00000000200005e8                PROVIDE (_end = .)
+                0x00000000200007e8                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200005e8      0x200 
+                0x0000000020000be8                . = (. + _Min_Stack_Size)
+ *fill*         0x00000000200007e8      0x400 
+                0x0000000020000be8                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x33 MY_RTOS/CortexMX_OS_Porting.o
+ .ARM.attributes
+                0x000000000000007d       0x33 MY_RTOS/MYRTOS_FIFO.o
+ .ARM.attributes
+                0x00000000000000b0       0x33 MY_RTOS/Scheduler.o
+ .ARM.attributes
+                0x00000000000000e3       0x2d STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .ARM.attributes
+                0x0000000000000110       0x2d STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .ARM.attributes
+                0x000000000000013d       0x2d STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .ARM.attributes
+                0x000000000000016a       0x2d STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .ARM.attributes
+                0x0000000000000197       0x33 Src/main.o
+ .ARM.attributes
+                0x00000000000001ca       0x21 Startup/startup_stm32f103c8tx.o
+ .ARM.attributes
+                0x00000000000001eb       0x2d c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000218       0x1b c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000000000000233       0x1d c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+OUTPUT(STM32_Drivers_BackUp.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x4467
+ .debug_info    0x0000000000000000      0x641 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_info    0x0000000000000641      0xca0 MY_RTOS/MYRTOS_FIFO.o
+ .debug_info    0x00000000000012e1     0x10b2 MY_RTOS/Scheduler.o
+ .debug_info    0x0000000000002393      0x506 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_info    0x0000000000002899      0xb12 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_info    0x00000000000033ab      0x67b STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_info    0x0000000000003a26      0x59c STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_info    0x0000000000003fc2      0x483 Src/main.o
+ .debug_info    0x0000000000004445       0x22 Startup/startup_stm32f103c8tx.o
+
+.debug_abbrev   0x0000000000000000      0xf95
+ .debug_abbrev  0x0000000000000000      0x1de MY_RTOS/CortexMX_OS_Porting.o
+ .debug_abbrev  0x00000000000001de      0x1cf MY_RTOS/MYRTOS_FIFO.o
+ .debug_abbrev  0x00000000000003ad      0x353 MY_RTOS/Scheduler.o
+ .debug_abbrev  0x0000000000000700      0x180 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_abbrev  0x0000000000000880      0x22a STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_abbrev  0x0000000000000aaa      0x1c7 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_abbrev  0x0000000000000c71      0x1b2 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_abbrev  0x0000000000000e23      0x160 Src/main.o
+ .debug_abbrev  0x0000000000000f83       0x12 Startup/startup_stm32f103c8tx.o
+
+.debug_loc      0x0000000000000000     0x1774
+ .debug_loc     0x0000000000000000      0x224 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_loc     0x0000000000000224      0x1cc MY_RTOS/MYRTOS_FIFO.o
+ .debug_loc     0x00000000000003f0      0x4fc MY_RTOS/Scheduler.o
+ .debug_loc     0x00000000000008ec      0x2d0 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_loc     0x0000000000000bbc      0x580 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_loc     0x000000000000113c      0x2bc STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_loc     0x00000000000013f8      0x294 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_loc     0x000000000000168c       0xe8 Src/main.o
+
+.debug_aranges  0x0000000000000000      0x390
+ .debug_aranges
+                0x0000000000000000       0x70 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_aranges
+                0x0000000000000070       0x40 MY_RTOS/MYRTOS_FIFO.o
+ .debug_aranges
+                0x00000000000000b0       0xa8 MY_RTOS/Scheduler.o
+ .debug_aranges
+                0x0000000000000158       0x78 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_aranges
+                0x00000000000001d0       0xa0 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_aranges
+                0x0000000000000270       0x58 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_aranges
+                0x00000000000002c8       0x60 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_aranges
+                0x0000000000000328       0x40 Src/main.o
+ .debug_aranges
+                0x0000000000000368       0x28 Startup/startup_stm32f103c8tx.o
+
+.debug_ranges   0x0000000000000000      0x308
+ .debug_ranges  0x0000000000000000       0x60 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_ranges  0x0000000000000060       0x30 MY_RTOS/MYRTOS_FIFO.o
+ .debug_ranges  0x0000000000000090       0x98 MY_RTOS/Scheduler.o
+ .debug_ranges  0x0000000000000128       0x68 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_ranges  0x0000000000000190       0x90 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_ranges  0x0000000000000220       0x48 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_ranges  0x0000000000000268       0x50 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_ranges  0x00000000000002b8       0x30 Src/main.o
+ .debug_ranges  0x00000000000002e8       0x20 Startup/startup_stm32f103c8tx.o
+
+.debug_macro    0x0000000000000000     0x3c11
+ .debug_macro   0x0000000000000000       0xbd MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x00000000000000bd      0xa60 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000000b1d       0x28 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000000b45       0x22 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000000b67       0x8e MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000000bf5       0x51 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000000c46       0xef MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000000d35       0x1c MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000000d51       0x22 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000000d73       0xe5 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000000e58      0xe3c MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000001c94       0x2e MY_RTOS/CortexMX_OS_Porting.o
+ .debug_macro   0x0000000000001cc2      0x22c MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000001eee       0x40 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000001f2e       0x18 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000001f46       0x94 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000001fda       0x3c MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002016       0x16 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x000000000000202c       0x97 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x00000000000020c3      0x330 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x00000000000023f3       0xfd MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x00000000000024f0       0x10 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002500       0x52 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002552       0x1f MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002571       0x43 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x00000000000025b4       0x20 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x00000000000025d4      0x1a3 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002777       0x10 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002787       0x1c MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x00000000000027a3       0x52 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x00000000000027f5       0x40 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002835       0x10 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002845       0x40 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002885       0xd7 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x000000000000295c       0x1c MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002978       0x3d MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x00000000000029b5       0x16 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x00000000000029cb      0x145 MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002b10       0xdf MY_RTOS/MYRTOS_FIFO.o
+ .debug_macro   0x0000000000002bef      0x236 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000002e25       0x46 MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000002e6b      0x32a MY_RTOS/Scheduler.o
+ .debug_macro   0x0000000000003195      0x169 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x00000000000032fe      0x225 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_macro   0x0000000000003523      0x170 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_macro   0x0000000000003693      0x177 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x000000000000380a       0xca STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_macro   0x00000000000038d4      0x17d STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000003a51       0xf5 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_macro   0x0000000000003b46       0xcb Src/main.o
+
+.debug_line     0x0000000000000000     0x41d6
+ .debug_line    0x0000000000000000      0x554 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_line    0x0000000000000554      0x6f8 MY_RTOS/MYRTOS_FIFO.o
+ .debug_line    0x0000000000000c4c      0x8c5 MY_RTOS/Scheduler.o
+ .debug_line    0x0000000000001511      0xa04 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_line    0x0000000000001f15      0xb65 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_line    0x0000000000002a7a      0x91d STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_line    0x0000000000003397      0x8a4 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_line    0x0000000000003c3b      0x517 Src/main.o
+ .debug_line    0x0000000000004152       0x84 Startup/startup_stm32f103c8tx.o
+
+.debug_str      0x0000000000000000    0x142e0
+ .debug_str     0x0000000000000000     0x982d MY_RTOS/CortexMX_OS_Porting.o
+                                       0x99c8 (size before relaxing)
+ .debug_str     0x000000000000982d     0x44af MY_RTOS/MYRTOS_FIFO.o
+                                       0xdc4e (size before relaxing)
+ .debug_str     0x000000000000dcdc      0x329 MY_RTOS/Scheduler.o
+                                       0xdf42 (size before relaxing)
+ .debug_str     0x000000000000e005     0x4b3f STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+                                       0xac79 (size before relaxing)
+ .debug_str     0x0000000000012b44      0x7a0 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+                                       0x9eb3 (size before relaxing)
+ .debug_str     0x00000000000132e4      0x7d0 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+                                       0x9eec (size before relaxing)
+ .debug_str     0x0000000000013ab4      0x788 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+                                       0xb291 (size before relaxing)
+ .debug_str     0x000000000001423c       0x75 Src/main.o
+                                       0x9894 (size before relaxing)
+ .debug_str     0x00000000000142b1       0x2f Startup/startup_stm32f103c8tx.o
+                                         0x61 (size before relaxing)
+
+.comment        0x0000000000000000       0xbe
+ .comment       0x0000000000000000       0x7b MY_RTOS/CortexMX_OS_Porting.o
+                                         0x7c (size before relaxing)
+ .comment       0x000000000000007b       0x7c MY_RTOS/MYRTOS_FIFO.o
+ .comment       0x000000000000007b       0x7c MY_RTOS/Scheduler.o
+ .comment       0x000000000000007b       0x43 STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+                                         0x44 (size before relaxing)
+ .comment       0x00000000000000be       0x44 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .comment       0x00000000000000be       0x44 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .comment       0x00000000000000be       0x44 STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .comment       0x00000000000000be       0x7c Src/main.o
+
+.debug_frame    0x0000000000000000      0xc20
+ .debug_frame   0x0000000000000000      0x140 MY_RTOS/CortexMX_OS_Porting.o
+ .debug_frame   0x0000000000000140       0xd8 MY_RTOS/MYRTOS_FIFO.o
+ .debug_frame   0x0000000000000218      0x270 MY_RTOS/Scheduler.o
+ .debug_frame   0x0000000000000488      0x18c STM32F103C8T6/STM32_F103C6_EXTI-Driver.o
+ .debug_frame   0x0000000000000614      0x288 STM32F103C8T6/STM32_F103C6_I2C-Driver.o
+ .debug_frame   0x000000000000089c      0x148 STM32F103C8T6/STM32_F103C6_SPI-Driver.o
+ .debug_frame   0x00000000000009e4      0x14c STM32F103C8T6/STM32_F103C6_USART-Driver.o
+ .debug_frame   0x0000000000000b30       0xa4 Src/main.o
+ .debug_frame   0x0000000000000bd4       0x2c c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000c00       0x20 c:/st/stm32cubeide_1.4.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-strcmp.o)
