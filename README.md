@@ -78,7 +78,7 @@ This funcion is used to make the task for a number of mile seconds by updating t
 | `NoTICKS`   | `u32` | The number of mile-seconds the task need to wait |
 
 
-## Task Priority Example
+## Tasks in action
 Task1 priority < Task2 priority < Task3 priority < Task4 priority
 
 ![Task Priority](https://github.com/DiaaAbayazeed/empedded_systems_online_deploma/blob/main/MY_RTOS/priorities.png)
