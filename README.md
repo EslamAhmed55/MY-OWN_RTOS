@@ -1,4 +1,4 @@
-# MY_RTOS
+# MY-OWN_RTOS
 
 ## Table of Contents
 
