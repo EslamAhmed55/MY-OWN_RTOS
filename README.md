@@ -18,6 +18,8 @@ It provides a foundation for creating embedded systems that require task schedul
 This RTOS implements scheduling algorithms such as Round-Robin, Priority, and Priority-based Round-Robin. 
 It also features mutex support and resolves the priority inversion problem through inheritance. 
 Additionally, the RTOS employs a straightforward solution to prevent deadlock by not allowing tasks to acquire more than one mutex simultaneously.
+![OS Chart drawio3](https://github.com/EslamAhmed55/MY-OWN_RTOS/assets/95945188/c2e04c02-a5fd-43fb-930d-b8fb884caf5a)
+
 
 ---------------------------------------------------------------------------------------------------
 ### Features
@@ -25,7 +27,7 @@ Additionally, the RTOS employs a straightforward solution to prevent deadlock by
 - Mutex Support: Implements mutexes for synchronization and resource access control.
 - Priority Inversion Resolution: Utilizes an inheritance mechanism to address priority inversion problems.
 - Deadlock Prevention: Simple solution to prevent deadlocks by disallowing tasks from acquiring more than one mutex.
-
+- ![OS Chart drawio2](https://github.com/EslamAhmed55/MY-OWN_RTOS/assets/95945188/2ad67d8e-0fef-4827-ae8f-aed88c3e65cf)
 
 ---------------------------------------------------------------------------------------------------
 
